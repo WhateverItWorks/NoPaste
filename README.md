@@ -106,7 +106,9 @@ echo -n 'Hello World' | xz --format=lzma | base64 -w0 | printf "https://nopaste.
 ## Deploy your own version of NoPaste
 
 Supports Github Pages
+
 Supports Docker
+
 Supports Manually
 
 [intro-img]: https://nopaste.ml/?l=tcl#XQAAAQA6BAAAAAAAAAAFYH9MXlzSsUdj4vga48M86Ff/Bo1HzNmlXzjCWCN1Q/EliRJg00jhrYF9eDKWzDi+Su+Pv1o8yGz3V06CtGOt8u9dUN10KuOrmkUrjI/kUqitUUD34YXmq9twyrkxmOl5kaHPNqE2PWTRhnKWCEntngrOOlXC4kxxnXuGB2v4zJ75fIM0htURHr9ysHH+1nHvSRng4zpcYju3Y/RqpGTIowXGoUcIOeKKG8PpYf/9t33i
